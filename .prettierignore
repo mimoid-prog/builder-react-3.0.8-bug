@@ -1,0 +1,47 @@
+# dependencies
+/node_modules
+yarn.lock
+
+# next.js
+/.next/
+/out/
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+yarn-error.log
+
+# local env files
+.env.local
+.env.example
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# husky
+/.husky
+
+# prettier
+.prettierignore
+
+# git
+.gitignore
+.gitkeep
+
+# eslint
+.eslintignore
+
+# static files
+public/*.js
+public/*.svg
+public/*.png
+public/*.ico
+
+# environment variables
+.env.example
+
+# node
+.nvmrc
